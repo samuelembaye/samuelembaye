@@ -15,7 +15,7 @@ Currently expanding my skills in **embedded development, IoT, and secure communi
 🧠 **Learning:** LwM2M, Zephyr RTOS, Rust for Embedded  
 
 <!-- Top languages card (hides JavaScript, HTML, CSS, Astro) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelem&layout=pie&langs_count=8&hide=JavaScript,HTML,CSS,Astro)](https://github.com/samuelem/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelembaye&layout=pie&langs_count=8&hide=JavaScript,HTML,CSS,Astro)](https://github.com/samuelem/github-readme-stats)
 
 ---
 
