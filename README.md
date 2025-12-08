@@ -53,7 +53,7 @@ A Java Swing GUI project simulating a **webshop database**.
 - Built **desktop interface** to manage products, orders, and customers  
 - Hands-on experience with **Java GUI programming and database integration**  
 
-👉 Explore more in my [repositories](https://github.com/samuelem?tab=repositories)
+👉 Explore more in my [repositories](https://github.com/samuelembaye?tab=repositories)
 
 ---
 
